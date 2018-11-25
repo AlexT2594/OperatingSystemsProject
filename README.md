@@ -1,4 +1,4 @@
-# OperatingSystemsProject
+# Operating Systems Project
 This is a project done during my bachelor degree at the Operating Systems course.
 
 It regards the realization of a service that implements message exchanges. It must accept messages received
